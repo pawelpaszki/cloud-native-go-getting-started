@@ -1,1 +1,1 @@
-# cloud-native-go-getting-started
+# learning go for web dev on Lynda.com
